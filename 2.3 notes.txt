@@ -1,0 +1,11 @@
+void elements of html:
+in this case you are forbidden to put anything in the tag. the tag itself looks very different.
+eg.
+<hr/>:-(horizontal rule(line))it helps us dividethe content. 
+<br/>:-(break)
+
+non-void:<p></p>
+
+
+
+
