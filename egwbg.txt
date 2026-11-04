@@ -1,0 +1,56 @@
+My strongest recommendation is to move away from the generic topic—“sentiment analysis of online reviews for purchase intention”—because many classmates will likely choose it. Choose instead:
+
+Best unique topic
+“AI-Generated Review Summaries and Consumer Purchase Intention: A Systematic Literature Review on Algorithmic Positivity Bias, Trust, and Purchase Decisions in E-Commerce”
+
+This is more distinctive because it examines not just customer reviews, but the increasingly common AI-generated summaries that platforms show above reviews. Recent evidence found that AI summaries were systematically more positive than the underlying customer reviews, with a sentiment gap of +0.23; the bias was strongest for lower-rated hotels and hotels with few reviews.
+
+Why it stands out
+Issue	Generic topic	Recommended topic
+Likely classmate overlap	High	Low
+Core question	Does review sentiment predict purchase intention?	Do AI-generated review summaries distort sentiment and affect consumer trust and purchase intention?
+Novelty	Well-established area	Emerging, timely, and policy-relevant
+Data sources	Text reviews	AI summaries, original reviews, ratings, platform interfaces
+Practical relevance	Product/marketing analytics	E-commerce design, consumer protection, AI governance
+Research gap	Often already reviewed	Strong gap around bias, transparency, and behavioral effects
+This topic is especially strong because recent research identifies AI-generated content, authenticity, review-sidedness, and reviewer expertise as important factors affecting consumer perception and purchase intention. A 2026 bibliometric review also calls for research on LLM-driven review-analysis systems and dynamic decision-prediction models, reinforcing that this is a forward-looking area.
+
+Suggested research questions
+RQ1: How do AI-generated review summaries represent the sentiment of underlying customer reviews?
+
+RQ2: What types of algorithmic bias—especially positivity bias, omission bias, and sentiment compression—have been identified in AI review summaries?
+
+RQ3: How do AI-generated summaries affect consumer trust, perceived review credibility, information processing, and purchase intention?
+
+RQ4: What design and governance mechanisms can reduce bias and improve transparency in AI-generated review summaries?
+
+PRISMA search string
+text
+("AI-generated review summary*" OR "automated review summary*"
+OR "LLM review summary*" OR "AI review summarization"
+OR "generative AI review*" OR "algorithmic review summary*")
+AND
+("consumer review*" OR "online review*" OR "customer review*" OR "e-commerce review*")
+AND
+("purchase intention" OR "buying intention" OR "purchase decision"
+OR "consumer trust" OR "review credibility" OR "purchase behavior")
+AND
+("bias" OR "positivity bias" OR "sentiment bias" OR "algorithmic bias"
+OR "transparency" OR "trust" OR "manipulation")
+Strong alternative topics
+If you prefer a topic closer to your original interest, choose one of these:
+
+Rank	Topic	Why it is unique
+2	“Multimodal Online Reviews and Consumer Purchase Intention: A Systematic Review of Text, Image, and Video Sentiment Analysis Using Machine Learning”	Most reviews focus only on text; image and video reviews are growing, and multimodal sentiment analysis can capture cross-modal cues beyond text. 
+3	“Large Language Models for Sentiment Analysis of Online Reviews and Purchase-Intention Prediction: A Systematic Review of Opportunities, Biases, and Evaluation Challenges”	It shifts the focus from traditional ML to LLMs, which are newer and less standardized; existing work notes challenges such as data imbalance, domain adaptation, multimodal complexity, and lack of standardized evaluation. 
+4	“Fake, Incentivized, and Manipulated Online Reviews: A Systematic Review of Machine-Learning Detection Methods and Their Impact on Consumer Trust and Purchase Intention”	This combines review authenticity, fraud detection, trust, and purchase behavior—an important but less crowded intersection. 
+5	“Aspect-Based Sentiment Analysis of E-Commerce Reviews for Predicting Purchase Intention: A Systematic Review of Product Attributes, Methods, and Consumer Behavior Outcomes”	Still relevant to your original topic, but more specific than ordinary sentiment analysis because it focuses on attributes such as price, quality, delivery, and service.
+My final advice
+Choose the AI-generated review summaries and positivity bias topic if you want the strongest differentiation. It is current, has a clear practical problem, connects naturally to your original interest in sentiment analysis and purchase intention, and is unlikely to duplicate a classmate’s work.
+
+A concise final title would be:
+
+“From Customer Reviews to AI Summaries: A Systematic Literature Review of Algorithmic Positivity Bias, Consumer Trust, and Purchase Intention in E-Commerce.”
+
+Avoid claiming that AI summaries “cause” purchase intention unless the included studies are experimental or longitudinal; use “influence,” “affect,” or “are associated with” instead. The existing evidence is largely observational and context-dependent, although it shows a meaningful sentiment gap between AI summaries and original reviews.
+
